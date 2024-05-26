@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Light theme -->
+
+    <style name="Base.Theme.AndroidAbschluss.Light" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Light theme attributes -->
+        <item name="colorPrimary">@color/dark_gray</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/black</item>
+        <item name="colorSecondaryVariant">@color/dark_gray</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/white</item>
+
+
+        <item name="android:textColor">@color/black</item>
+        <item name="android:windowBackground">@android:color/white</item>
+
+
+        <item name="colorOnSurface">@color/black</item>
+
+        <item name="colorSurfaceVariant">@color/white</item>
+        <item name="colorOnSurfaceVariant">@color/black</item>
+
+        <item name="android:textColorHighlight">@color/grau</item>
+        <item name="android:textColorHighlightInverse">@color/grau</item>
+
+        <!-- Disable system splash screen -->
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+
+    <!-- Default theme -->
+    <style name="Theme.AndroidAbschluss" parent="Base.Theme.AndroidAbschluss.Light" />
+</resources>

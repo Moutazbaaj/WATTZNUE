@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashScreenFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="de.syntax.androidabschluss.ui.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_webViewFragment"
+            app:destination="@id/webViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="de.syntax.androidabschluss.ui.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/favoritesDetailsFragment"
+        android:name="de.syntax.androidabschluss.ui.favorites.FavoritesDetailsFragment"
+        android:label="fragment_favorites_details"
+        tools:layout="@layout/fragment_favorites_details" >
+        <action
+            android:id="@+id/action_favoritesDetailsFragment_to_favoritesFragment"
+            app:destination="@id/favoritesFragment" />
+        <argument
+            android:name="id"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_favoritesDetailsFragment_to_webViewFragment"
+            app:destination="@id/webViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="de.syntax.androidabschluss.ui.authentication.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_registrationFragment"
+            app:destination="@id/registrationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registrationFragment"
+        android:name="de.syntax.androidabschluss.ui.authentication.RegistrationFragment"
+        android:label="fragment_registration"
+        tools:layout="@layout/fragment_registration" />
+    <fragment
+        android:id="@+id/weatherFragment"
+        android:name="de.syntax.androidabschluss.ui.WeatherFragment"
+        android:label="fragment_weather"
+        tools:layout="@layout/fragment_weather" />
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="de.syntax.androidabschluss.ui.favorites.FavoritesFragment"
+        android:label="FavoritesFragment"
+        tools:layout="@layout/fragment_favorites">
+        <action
+            android:id="@+id/action_favoritesFragment_to_favoritesDetailsFragment"
+            app:destination="@id/favoritesDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="de.syntax.androidabschluss.ui.search.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" >
+        <action
+            android:id="@+id/action_searchFragment_to_searchDetailsFragment"
+            app:destination="@id/searchDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="de.syntax.androidabschluss.ui.news.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_newsFragment_to_newsArticleFragment"
+            app:destination="@id/newsArticleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchDetailsFragment"
+        android:name="de.syntax.androidabschluss.ui.search.SearchDetailsFragment"
+        android:label="fragment_search_detali"
+        tools:layout="@layout/fragment_search_detali" >
+        <action
+            android:id="@+id/action_searchDetailsFragment_to_searchFragment"
+            app:destination="@id/searchFragment" />
+        <argument
+            android:name="id"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_searchDetailsFragment_to_webViewFragment"
+            app:destination="@id/webViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsArticleFragment"
+        android:name="de.syntax.androidabschluss.ui.news.NewsSourcesFragment"
+        android:label="fragment_news_article"
+        tools:layout="@layout/fragment_news_sources" >
+        <action
+            android:id="@+id/action_newsArticleFragment_to_newsFragment"
+            app:destination="@id/newsFragment" />
+        <argument
+            android:name="category"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_newsArticleFragment_to_webViewFragment"
+            app:destination="@id/webViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/toDoFragment"
+        android:name="de.syntax.androidabschluss.ui.todo.ToDoFragment"
+        android:label="fragment_to_do"
+        tools:layout="@layout/fragment_to_do" />
+    <fragment
+        android:id="@+id/toDoDetailsFragment"
+        android:name="de.syntax.androidabschluss.ui.todo.ToDoDetailsFragment"
+        android:label="fragment_to_do_details"
+        tools:layout="@layout/fragment_to_do_details" />
+    <fragment
+        android:id="@+id/toDoCategoriesFragment"
+        android:name="de.syntax.androidabschluss.ui.todo.ToDoCategoriesFragment"
+        android:label="fragment_to_do_categories"
+        tools:layout="@layout/fragment_to_do_categories" />
+    <fragment
+        android:id="@+id/toDoDoneFragment"
+        android:name="de.syntax.androidabschluss.ui.todo.ToDoDoneFragment"
+        android:label="fragment_to_do_done"
+        tools:layout="@layout/fragment_to_do_done" />
+    <fragment
+        android:id="@+id/toDoFavoriteFragment"
+        android:name="de.syntax.androidabschluss.ui.todo.ToDoFavoriteFragment"
+        android:label="fragment_to_do_favorite"
+        tools:layout="@layout/fragment_to_do_favorite" />
+    <fragment
+        android:id="@+id/toDoImportantFragment"
+        android:name="de.syntax.androidabschluss.ui.todo.ToDoImportantFragment"
+        android:label="fragment_to_do_important"
+        tools:layout="@layout/fragment_to_do_important" />
+    <fragment
+        android:id="@+id/splashScreenFragment"
+        android:name="de.syntax.androidabschluss.util.SplashScreenFragment"
+        android:label="fragment_splash_screen"
+        tools:layout="@layout/fragment_splash_screen" />
+    <fragment
+        android:id="@+id/webViewFragment"
+        android:name="de.syntax.androidabschluss.util.WebViewFragment"
+        android:label="WebViewFragment" >
+        <argument
+            android:name="url"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/setUserProfileFragment"
+        android:name="de.syntax.androidabschluss.ui.authentication.SetUserProfileFragment"
+        android:label="fragment_ser_user_profile"
+        tools:layout="@layout/fragment_ser_user_profile" />
+    <fragment
+        android:id="@+id/aboutUsFragment"
+        android:name="de.syntax.androidabschluss.ui.AboutUsFragment"
+        android:label="fragment_about_us"
+        tools:layout="@layout/fragment_about_us" />
+</navigation>

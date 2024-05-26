@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="android:windowBackground">@drawable/rounded_background</item>
+    </style>
+
+
+    <style name="BottomSheetDialogStyle" parent="Theme.Design.BottomSheetDialog">
+        <item name="android:windowAnimationStyle">@style/BottomSheetDialogAnimation</item>
+    </style>
+
+    <style name="BottomSheetDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_bottom</item>
+    </style>
+
+
+    <style name="AlertDialogTitleTextAppearance" parent="@android:style/TextAppearance">
+        <!-- Customize text appearance for the AlertDialog title -->
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item> <!-- Set title text color -->
+    </style>
+
+
+    <style name="AlertDialogButtonStyle" parent="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <!-- Customize the button background to be transparent -->
+        <item name="android:background">@android:color/transparent</item>
+        <!-- Customize button text color to be black -->
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+
+    <style name="CustomAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Set window background to the rounded background drawable -->
+        <item name="android:windowBackground">@drawable/rounded_background</item>
+        <!-- Customize title text appearance -->
+        <item name="android:textAppearance">@style/AlertDialogTitleTextAppearance</item>
+        <!-- Customize button styles -->
+        <item name="android:buttonBarButtonStyle">@style/AlertDialogButtonStyle</item>
+    </style>
+
+
+</resources>
