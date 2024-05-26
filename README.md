@@ -7,7 +7,7 @@ Welcome to **WATTZNÜ**, the ultimate morning companion designed to streamline y
 
 ## About The Application
 
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/6f72c2d7-2a97-4e51-94ca-c3cf7877f12a" alt="WATTZNÜ Interface" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/d9178f4e-958a-4b6d-b923-2501c7f2896b" alt="Screenshot 4" width="150">
 
 Greetings, early risers! Are you tired of juggling multiple apps to kickstart your day? Allow us to introduce WATTZNÜ – your all-in-one morning companion. Crafted with care by Moutaz Baaj, WATTZNÜ is designed to simplify your morning routine and keep you informed from the moment you wake up.
 
