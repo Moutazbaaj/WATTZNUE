@@ -5,7 +5,7 @@
 Welcome to **WATTZNÜ**, the ultimate morning companion designed to streamline your daily routine and keep you informed and organized from the moment you wake up. Created by Moutaz Baaj, a budding software developer studying at Syntax Institute, this debut Android project aims to simplify your morning routine with an all-in-one solution.
 
 ## About The Application
-
+![Screenshot_20240422_154614](https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/459d375c-f4f1-4bb0-806c-127708070819)
 ![WATTZNÜ Interface](images/interface.png)
 
 Greetings, early risers! Are you tired of juggling multiple apps to kickstart your day? Allow us to introduce WATTZNÜ – your all-in-one morning companion. Crafted with care by Moutaz Baaj, WATTZNÜ is designed to simplify your morning routine and keep you informed from the moment you wake up.
