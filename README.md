@@ -93,7 +93,6 @@ WATTZNÜ provides news from a wide range of countries, including:
 - **Phone**: +49 1723510582
 - **GitHub**: [github.com/Moutazbaaj](https://github.com/Moutazbaaj)
 - **Email**: [moutazbaaj@gmail.com](mailto:moutazbaaj@gmail.com)
-- **Address**: Delbrückstr. 35, 12051 Berlin, Germany
 
 Thank you for choosing WATTZNÜ to start your day off right. Download now and experience the convenience of having all your morning essentials in one place!
 
