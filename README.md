@@ -1,6 +1,7 @@
 # WATTZNÜ - Your Ultimate Morning Companion
 
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/bf481f23-4cd5-47e5-8d15-bb8259a48e09" alt="WATTZNÜ Logo" width="200">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/49a9ee48-c2d8-4764-81e0-a2c80fbce7d5" alt="Screenshot 7" width="150">
+
 
 Welcome to **WATTZNÜ**, the ultimate morning companion designed to streamline your daily routine and keep you informed and organized from the moment you wake up. Created by Moutaz Baaj, a budding software developer studying at Syntax Institute, this debut Android project aims to simplify your morning routine with an all-in-one solution.
 
@@ -92,21 +93,21 @@ WATTZNÜ provides news from a wide range of countries, including:
 
 Here are some screenshots showcasing the WATTZNÜ application:
 
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/f2970bfa-3e31-4538-829a-719b3da84526" alt="Screenshot 1" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/a653eca5-9ee5-4783-af95-685492b3a7f3" alt="Screenshot 2" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/fca314ec-bf79-45b0-8f1a-1ce6a92da2d1" alt="Screenshot 3" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/d9178f4e-958a-4b6d-b923-2501c7f2896b" alt="Screenshot 4" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/5321268f-721e-4bf7-9f14-0305803aaba9" alt="Screenshot 5" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/419d9ac0-de42-42b6-aea4-edf5e591b9d5" alt="Screenshot 6" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/49a9ee48-c2d8-4764-81e0-a2c80fbce7d5" alt="Screenshot 7" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/89408fea-a029-47a9-94ff-6b7f359a4cd2" alt="Screenshot 8" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/4f32eb08-b6c1-48bb-94be-e64c4527e35c" alt="Screenshot 9" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/909bc2c2-d2ce-4ac9-9c5e-9b1dfe6d41bf" alt="Screenshot 10" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/4ee5ced0-4b02-4e7a-9c52-6a23387dc6be" alt="Screenshot 11" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/cc6458a7-93f7-4ab2-9912-b57acbd55899" alt="Screenshot 12" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/13612aa2-1a8b-46ec-b7a6-0aec82cb2175" alt="Screenshot 13" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/261a001a-5a7a-4372-a5ba-52d649045b95" alt="Screenshot 14" width="300">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/49573440-bd6b-4ada-8b2e-d0d04718f6f8" alt="Screenshot 15" width="300">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/f2970bfa-3e31-4538-829a-719b3da84526" alt="Screenshot 1" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/a653eca5-9ee5-4783-af95-685492b3a7f3" alt="Screenshot 2" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/fca314ec-bf79-45b0-8f1a-1ce6a92da2d1" alt="Screenshot 3" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/d9178f4e-958a-4b6d-b923-2501c7f2896b" alt="Screenshot 4" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/5321268f-721e-4bf7-9f14-0305803aaba9" alt="Screenshot 5" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/419d9ac0-de42-42b6-aea4-edf5e591b9d5" alt="Screenshot 6" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/bf481f23-4cd5-47e5-8d15-bb8259a48e09" alt="WATTZNÜ Logo" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/89408fea-a029-47a9-94ff-6b7f359a4cd2" alt="Screenshot 8" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/4f32eb08-b6c1-48bb-94be-e64c4527e35c" alt="Screenshot 9" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/909bc2c2-d2ce-4ac9-9c5e-9b1dfe6d41bf" alt="Screenshot 10" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/4ee5ced0-4b02-4e7a-9c52-6a23387dc6be" alt="Screenshot 11" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/cc6458a7-93f7-4ab2-9912-b57acbd55899" alt="Screenshot 12" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/13612aa2-1a8b-46ec-b7a6-0aec82cb2175" alt="Screenshot 13" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/261a001a-5a7a-4372-a5ba-52d649045b95" alt="Screenshot 14" width="150">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/49573440-bd6b-4ada-8b2e-d0d04718f6f8" alt="Screenshot 15" width="150">
 
 ## Contact
 
