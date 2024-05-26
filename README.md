@@ -20,7 +20,8 @@ Greetings, early risers! Are you tired of juggling multiple apps to kickstart yo
 
 ## Application Features
 
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/a9187fec-59d0-4db1-91e1-7dc304ef74ee" alt="Features" width="150">
+
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/419d9ac0-de42-42b6-aea4-edf5e591b9d5" alt="Screenshot 6" width="150">
 
 1. **Weather Updates**: Stay informed about the day's forecast with real-time weather updates tailored to your location. Dive deeper with a detailed weather fragment, including integrated Google Maps to pinpoint your exact location.
 2. **Headline News**: Catch up on the latest news from around the world with curated headlines from over 50 countries.
@@ -98,7 +99,7 @@ Here are some screenshots showcasing the WATTZNÜ application:
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/fca314ec-bf79-45b0-8f1a-1ce6a92da2d1" alt="Screenshot 3" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/d9178f4e-958a-4b6d-b923-2501c7f2896b" alt="Screenshot 4" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/5321268f-721e-4bf7-9f14-0305803aaba9" alt="Screenshot 5" width="200">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/419d9ac0-de42-42b6-aea4-edf5e591b9d5" alt="Screenshot 6" width="200">
+<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/a9187fec-59d0-4db1-91e1-7dc304ef74ee" alt="Features" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/89408fea-a029-47a9-94ff-6b7f359a4cd2" alt="Screenshot 8" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/4f32eb08-b6c1-48bb-94be-e64c4527e35c" alt="Screenshot 9" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/909bc2c2-d2ce-4ac9-9c5e-9b1dfe6d41bf" alt="Screenshot 10" width="200">
