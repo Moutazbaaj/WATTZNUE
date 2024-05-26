@@ -111,7 +111,6 @@ Here are some screenshots showcasing the WATTZNÜ application:
 
 ## Contact
 
-- **Phone**: +49 1723510582
 - **GitHub**: [github.com/Moutazbaaj](https://github.com/Moutazbaaj)
 - **Email**: [moutazbaaj@gmail.com](mailto:moutazbaaj@gmail.com)
 
