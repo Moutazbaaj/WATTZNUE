@@ -99,7 +99,6 @@ Here are some screenshots showcasing the WATTZNÜ application:
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/d9178f4e-958a-4b6d-b923-2501c7f2896b" alt="Screenshot 4" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/5321268f-721e-4bf7-9f14-0305803aaba9" alt="Screenshot 5" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/419d9ac0-de42-42b6-aea4-edf5e591b9d5" alt="Screenshot 6" width="200">
-<img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/bf481f23-4cd5-47e5-8d15-bb8259a48e09" alt="WATTZNÜ Logo" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/89408fea-a029-47a9-94ff-6b7f359a4cd2" alt="Screenshot 8" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/4f32eb08-b6c1-48bb-94be-e64c4527e35c" alt="Screenshot 9" width="200">
 <img src="https://github.com/Moutazbaaj/WATTZNUE/assets/148048629/909bc2c2-d2ce-4ac9-9c5e-9b1dfe6d41bf" alt="Screenshot 10" width="200">
